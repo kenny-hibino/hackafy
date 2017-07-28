@@ -1,0 +1,16 @@
+{
+  "name": "kenny-hibino/hackafy",
+  "description": "a clone of Instagram",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
